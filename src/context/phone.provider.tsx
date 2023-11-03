@@ -2,4 +2,3 @@
 type Props = {
   children: JSX.Element;
 };
-
